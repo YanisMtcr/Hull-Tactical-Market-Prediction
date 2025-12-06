@@ -17,7 +17,6 @@ It implements an end-to-end workflow: preprocessing, feature engineering, model 
 ## Method Summary
 1. **Preprocessing**
    - Log transformation
-   - Removal of low-variation (“flat”) rows
    - Missing value handling
 2. **Feature Engineering**
    - Derived features built from `forward_returns`
