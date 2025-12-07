@@ -1,0 +1,18 @@
+{
+    "CatBoost": {
+        "iterations": 343,
+        "depth": 6,
+        "learning_rate": 0.03151166678750152,
+        "l2_leaf_reg": 3.2735576230489034
+    },
+    "SVM": {
+        "C": 0.6597417532503824,
+        "gamma": 0.01
+    },
+    "GradientBoosting": {
+        "n_estimators": 116,
+        "max_depth": 4,
+        "learning_rate": 0.06442411531589334,
+        "subsample": 0.6721558525190108
+    }
+}
