@@ -37,9 +37,5 @@ It implements an end-to-end workflow: preprocessing, feature engineering, model 
 9. **Interpretability**
    - Permutation importance
    - SHAP for CatBoost
-
-## Setup
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+  
+   
