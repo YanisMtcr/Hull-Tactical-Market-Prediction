@@ -7,3 +7,4 @@ catboost
 optuna
 joblib
 shap
+ydata_profiling
